@@ -520,9 +520,8 @@ ul {
 }
 
 .h1-title {
-    font-size: 90px;
+    font-size: 80px;
     line-height: 108px;
-    text-transform: capitalize;
     margin-bottom: 25px;
     font-weight: 900;
 }
@@ -1466,7 +1465,7 @@ p {
 
 @media (max-width: 1399px) {
     .h1-title {
-        font-size: 80px;
+        font-size: 60px;
         line-height: 90px;
     }
     .h3-title {
